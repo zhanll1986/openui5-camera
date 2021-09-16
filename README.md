@@ -1,4 +1,5 @@
 # OpenUI5-Camera
+test for git
 
 An UI5 control which uses the HTML5 media capture API to access the device's camera. The control renders a live camera preview and can take pictures when the users clicks/taps on it.
 This is a work in progress so feature set is still very basic.
